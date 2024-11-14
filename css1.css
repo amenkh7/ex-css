@@ -1,0 +1,29 @@
+.pro1{
+    border: solid 2px;
+    border-radius: 4px;
+    border-color: aqua;
+    text-align: center;
+    margin: 10px ;
+    display: inline-block;
+    padding: 10px;
+
+}
+.b1{
+    background-color: orange;
+    color: aliceblue;
+    border-radius: 4px;
+}
+.pro{
+    display: flex;
+    margin-left: 25%;
+    margin-right: 75%;
+}
+h1{
+    text-align: center;
+}
+span{
+    color: green;
+}
+body{
+    background-color: blanchedalmond;
+}
